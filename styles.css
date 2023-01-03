@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+body{
+    color: darkblue;
+    background-color:  #FDEEDC;
+    text-align: center;
+    height: 100%;
+    
+}
+h1:hover{
+    color: #121211;
+}
+h2:hover{
+    color: #0d0e0d;
+}
+h3:hover{
+    color: white;
+}
+h3{
+    background-color: #F1A661;
+    font-size: 200%;
+    color: #590696;
+}
+#name{
+    
+    position: relative;
+    text-align: center;
+    font-size: 300%;
+    
+}
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+img{
+    width:100%;
+    height: 100%;
+}
+
+.name1{
+    font-size: 100%;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(128, 128, 128);
+}
+.dob{
+    font-size: 60%;
+    color: rgb(0, 0, 128);
+}
+.tributeinfo{
+    padding: 0 30 0 30;
+    font-size: large;
+   
+    
+}
+.quote{
+    font-size: 150%;
+    padding-top: 40px;
+    text-align: center;
+    height:100px;
+    
+}
+.salutation{
+    color: beige;
+    font-size: large;
+    padding-top: 40px;
+    text-align: center;
+    height:100px;
+    background-color: #E38B29;
+}
+.salutation:hover{
+    color: darkblue;
+}
